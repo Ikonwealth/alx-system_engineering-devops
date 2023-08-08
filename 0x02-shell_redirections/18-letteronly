@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "^[[:alpha:c]]" /etc/ssh/sshd_cofig
+grep '^[[:alpha:c]]' /etc/ssh/sshd_cofig
